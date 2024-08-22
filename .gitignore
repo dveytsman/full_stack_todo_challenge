@@ -1,0 +1,37 @@
+# Backend   Python
+backend/venv/
+backend/.env
+__pycache__/
+*.pyc
+.env
+venv
+
+# frontend JavaScript (React)
+frontend/node_modules/
+
+# random system files:
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+
+# Environment Variables
+.env
+
+# Node
+node_modules/
+
+# Frontend build files
+frontend/build/
+
+# Git
+.git/
